@@ -1,6 +1,6 @@
 # Hi, I'm Lisha 
 
-MSc Data Science student, currently building toward a career in machine learning research — with a longer-term goal of a PhD. Along the way, I'm equally interested in Data Scientist / ML Engineer roles where I can keep building and shipping.
+MSc Data Science student, currently building toward a career in Responsible AI research — with a longer-term goal of a PhD. Along the way, I'm equally interested in Data Scientist / ML Engineer roles where I can keep building and shipping.
 
 I like problems where the model isn't just "does it work" but *why* does it work — explainability, evaluation methodology, and the gap between what a metric says and what's actually true.
 
